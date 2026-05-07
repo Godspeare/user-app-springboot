@@ -48,7 +48,10 @@ H2 Database Console
 This confirms that data is stored correctly in the in-memory database.
 
 "H2 Console" (screenshots/console.png)
-
+![App Startup](screenshots/app-run.png)
+![Postman Add](screenshots/postman-add.png)
+![User List](screenshots/users.png)
+![H2 Console](screenshots/console.png)
 How to Run the Project
 
 1. Clone the repository
